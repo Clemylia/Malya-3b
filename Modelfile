@@ -1,4 +1,4 @@
-FROM llama3.1
+FROM hf.co/mradermacher/Malya-GGUF
 
 PARAMETER temperature 0.9
 
